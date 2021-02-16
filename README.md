@@ -6,9 +6,7 @@ Just a discord.py bot base
 
 $pip install discord.py
 
-And fill your token in 
-
-TOKEN = "your token" 
+And fill your token in **TOKEN = "your token"**
 
 
 
